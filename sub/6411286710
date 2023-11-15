@@ -8,7 +8,6 @@ vless://r4d@78.46.186.176:443?encryption=none&fp=chrome&mode=gun&pbk=0mEZETLqTdX
 vless://750cc4ea-50e8-4d8e-afc4-51104675a43a@mtn.vpnprosec.com:443?encryption=none&mode=gun&security=tls&serviceName=&sni=V2ray.SvnBuy.Online&type=grpc#@LoyalShopRobot
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@biia.freev2alpha.cfd:2096?encryption=none&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#@LoyalShopRobot
 vless://d4537f15-7ae7-43af-854b-2b01fae552d8@telegramastrovpn.ddns.net:8080?%40AstroVPN_IR_%40AstroVPN_IR_%40AstroVPN_IR_%40AstroVPN_IR_%40AstroVPN_IR_%40AstroVPN_IR_%40AstroVPN_IR_%40AstroVPN_IR=&encryption=none&host=us9.vlessx.us&path=%2F%3Fed%3D2048&security=none&type=ws#@LoyalShopRobot
-vless://1cc3e063-fee5-4eb4-85c9-2da23b5bb7bc@Cdnjs.com:2083?encryption=none&mode=gun&security=tls&serviceName=&sni=pm.VipXali.cfd&type=grpc#@LoyalShopRobot
 vless://9aba8bfe-d569-4d60-a712-a55f124f30f4@104.25.43.169:2083?alpn=%E2%80%A6&encryption=none&security=tls&sni=rayeganvasehame.flchlast.online#@LoyalShopRobot
 vless://c0553de3-c808-443b-881f-42ae14400aac@104.22.11.129:2083?encryption=none&host=rayeganvasehame.flchlast.online&path=%2Fwss18605%3Fed%3D2048&security=tls&sni=rayeganvasehame.flchlast.online&type=ws#@LoyalShopRobot
 vless://d199009b-e002-4ac5-ab2f-d72ae9fea01e@104.22.11.129:2083?alpn=h2&encryption=none&mode=gun&security=tls&serviceName=grpc17979&sni=rayeganvasehame.flchlast.online&type=grpc#@LoyalShopRobot
@@ -18,3 +17,4 @@ vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@855.outline-vpn.cloud:443?encryptio
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2087?encryption=none&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=baipiao1.curly-train.pages.dev&type=ws#@LoyalShopRobot
 vless://49157c6c-e36b-4c9a-cf57-1fdd6b5943bd@2bia-channel.unlimiteddev.xyz:80?encryption=none&host=bia-to-channel.unlimiteddev.xyz&path=%2F&security=none&type=ws#@LoyalShopRobot
 vless://49157c6c-e36b-4c9a-cf57-1fdd6b5943bd@3bia-channel.unlimiteddev.xyz:80?encryption=none&host=bia-to-channel.unlimiteddev.xyz&path=%2F&security=none&type=ws#@LoyalShopRobot
+vless://9c29a832-55ff-4a80-a712-b31db676968c@bia-to6.unlimiteddev.xyz:443?fp=chrome&mode=multi&pbk=5p0XQ11s3YHqW-JaBB1REEiw5msyZ2Jml4OZDwQV7Ec&security=reality&serviceName=%40unlimiteddev&sid=5eca&sni=ftp.debian.org&spx=%2F&type=grpc#@LoyalShopRobot
