@@ -16,5 +16,5 @@ vless://9b97bb00-48b8-46dd-a9f2-ecd2e16fc41c@mediafire.com:2095?encryption=none&
 vless://5c685c0b-fd48-458a-a940-34645cba027d@2bia-channel.unlimiteddev.xyz:80?encryption=none&host=bia-to-channel.unlimiteddev.xyz&path=%2F&security=none&type=ws#@LoyalShopRobot
 vless://5c685c0b-fd48-458a-a940-34645cba027d@3bia-channel.unlimiteddev.xyz:80?encryption=none&host=bia-to-channel.unlimiteddev.xyz&path=%2F&security=none&type=ws#@LoyalShopRobot
 vless://557a7464-f28e-4f9c-dc15-a2ce41686f6b@bia-to6.unlimiteddev.xyz:443?fp=chrome&mode=multi&pbk=wpsGwAc5H6DkRnJc99sIn24W2D2ELxmmXaR4KzcfK0I&security=reality&serviceName=%40unlimiteddev&sid=24a3&sni=ftp.debian.org&spx=%2F&type=grpc#@LoyalShopRobot
-vless://1362fe98-0665-4f8c-c332-447cae07c726@bia_to_vmessorg.mokhin.me:80?encryption=none&host=join_bede_vmessorg.mokhin.me&path=%2F&security=none&type=ws#@LoyalShopRobot
-vless://1362fe98-0665-4f8c-c332-447cae07c726@bia_too_vmessorg.mokhin.me:80?encryption=none&host=join&security=none&type=ws#@LoyalShopRobot
+vless://1362fe98-0665-4f8c-c332-447cae07c726@bia_too_vmessorg.mokhin.me:80?host=join_bede_vmessorg.mokhin.me&path=%2F&security=none&type=ws#@LoyalShopRobot
+vless://774782e2-e1db-4d07-c32b-1f9737430e0b@join_bede_vmessorg.mokhin.me:80?path=%2F&security=none&type=ws#@LoyalShopRobot
