@@ -35,9 +35,9 @@ vless://520cbe95-da8f-4e47-90f5-8b7102acadb6@141.95.106.240:54352?encryption=non
 vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?encryption=none&flow=&fp=chrome&pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&security=reality&sid=9e20a9863c3c8d7d&sni=lit.dev&type=tcp#🟣Instagram
 vless://0858fbc5-3f84-4e33-8e4b-ae76a9a513ca@1bia-to1.unlimiteddev.shop:8080?fp=chrome&pbk=2xUzg6X5tO5GTUuHASIsd3Vuy4PBvdZVYK2qS9XFemo&security=reality&serviceName=%40UnlimitedDev&sid=239e9b09&sni=ftp.debian.org&spx=%2F&type=grpc#🟣Instagram
 vless://---MsV2ray---@95.217.133.216:443?encryption=none&fp=chrome&mode=multi&pbk=vUt0xRjXoLmn0QGSJS5B3HQDYoH4ccg6wy_ccn4vaUs&security=reality&serviceName=%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray%2C%40MsV2ray&sid=7576&sni=tuyacn.com&spx=%2F&type=grpc#🟣Instagram
-trojan://telegram-id-directvpn@3.143.66.124:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
-trojan://telegram-id-directvpn@13.51.26.155:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://telegram-id-directvpn@16.170.181.107:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
+trojan://telegram-id-directvpn@18.153.201.186:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
+trojan://telegram-id-directvpn@52.58.115.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://d33df23a-8b9e-468e-bc33-dd3643008ced@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#test
 trojan://telegram-id-directvpn@13.39.167.119:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#test
