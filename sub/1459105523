@@ -37,9 +37,9 @@ vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?encryption=non
 vless://8d616786-b8d1-441c-b075-1c2aa01cdae6@2bia-to2.unlimiteddev.shop:2053?fp=firefox&pbk=XPFWt9bh70lzijNp-e5j1lTR_wRtLJ274ccoCBwBuiY&security=reality&serviceName=%40UnlimitedDev&sid=e95fe3d4&sni=begzar.ir&spx=%2F&type=grpc#🟣Instagram
 trojan://telegram-id-privatevpns@51.20.227.248:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://telegram-id-privatevpns@13.49.108.88:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
-trojan://telegram-id-directvpn@52.58.115.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://telegram-id-directvpn@16.170.67.206:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://telegram-id-directvpn@51.20.13.150:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
-trojan://d33df23a-8b9e-468e-bc33-dd3643008ced@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#test
+trojan://telegram-id-directvpn@15.237.8.67:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
+trojan://d33df23a-8b9e-468e-bc33-dd3643008ced@5.104.107.143:443?headerType=none&security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#test
 trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#test
 trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#test
