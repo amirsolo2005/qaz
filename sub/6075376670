@@ -41,4 +41,3 @@ trojan://telegram-id-directvpn@52.58.115.30:22222?alpn=http%2F1.1&headerType=non
 trojan://d33df23a-8b9e-468e-bc33-dd3643008ced@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp#test
 trojan://telegram-id-directvpn@13.39.167.119:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp#test
 trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#test
-trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443#test
