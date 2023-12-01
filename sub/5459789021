@@ -45,12 +45,12 @@ vless://ff2cb43b-a093-4372-a19c-37ff6f6d741f@trch.blueberrynetwork.icu:333?encry
 vless://ff2cb43b-a093-4372-a19c-37ff6f6d741f@trch.blueberrynetwork.icu:333?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=o0eRV4p7lizgJXVxPt9fbOzqKzL9UlyhHjnZJGVAUQo&security=reality&sid=80c7292c&sni=www.kukala.ir&spx=%2F&type=tcp#🟣Instagram
 vless://join---telegram---V2ray_Vpn_ir@91.103.253.66:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=dI21_SOs4C_YiBhslDZnrt5oJLNDzL_Q0ce1R6o9-HM&security=reality&sid=98f0e20f&sni=kukala.ir&spx=%2FTelegram---V2ray-vpn-ir&type=tcp#🟣Instagram
 vless://538e4863-d346-4a38-87db-14b739f97f09@hadi.v2rayngz.com:33238?encryption=none&fp=firefox&mode=gun&pbk=8CNTnE3Hb8AP9vrlIYdzF_hBG0oklABXD7E8oY-GRDU&security=reality&serviceName=&sid=466a6ae0&sni=sourceforge.net&spx=%2F&type=grpc#🟣Instagram
-trojan://telegram-id-privatevpns@13.51.90.86:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-privatevpns@16.16.46.34:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@18.198.178.190:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-directvpn@16.170.79.12:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-directvpn@52.47.72.168:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-privatevpns@3.75.73.143:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-privatevpns@15.236.184.28:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@15.237.164.227:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@18.132.137.8:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@18.171.102.134:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://93f1de92-bb07-43de-bfa6-a754b21f7768@185.238.228.253:443?alpn=h2&security=tls&serviceName=w9x8jcNwkA2zUaju4sCZhUIO4M&sni=sub1.ipsycho.pro&type=grpc#support_server
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@89.163.220.99:443?security=tls&sni=glc-de1.windowsupdatea.com&type=tcp#support_server
 trojan://c78452f0-8489-43d8-87c6-68e55e3ce245@ssrsub.t18.trojan.tel:80?sni=ssrsub.t18.trojan.tel#support_server
