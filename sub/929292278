@@ -47,6 +47,7 @@ vless://ae822cc0-db26-48a6-ab52-49aea9e0fc97@h1.bestvipserviceirr.xyz:443?encryp
 trojan://telegram-id-privatevpns@52.58.227.59:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@3.121.187.77:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@13.36.34.177:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@3.11.65.152:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@52.215.141.216:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@35.81.218.119:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp#support_server
