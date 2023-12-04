@@ -47,9 +47,9 @@ vless://ef54600b-bd7d-4ad9-c5d9-988a7dd91562@mahsang-1.dgi000.store:35867?encryp
 trojan://telegram-id-privatevpns@63.34.53.53:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@51.21.47.197:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@16.171.126.38:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-directvpn@3.124.79.245:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@13.51.164.126:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@13.53.230.113:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@52.47.49.3:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://268f7997-fc81-4607-bae2-e61e8416ac3b@45.65.113.195:443?security=tls&sni=16-163-218-240.nhost.00cdn.com&type=tcp#support_server
 trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@213.202.216.14:443?security=tls&sni=downloadde.xn--mes358acgm99l.com&type=tcp#support_server
 trojan://bcd5799a-5338-4dc4-844f-f5b98cc1aea9@vp1n3ip.vpweb.cfd:443?alpn=h2&fp=chrome&mode=gun&security=tls&serviceName=v2qAAYBGDaSp7xbeLIZs&sni=vp1n3.vpweb.cfd&type=grpc#support_server
