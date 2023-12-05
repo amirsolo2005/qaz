@@ -45,11 +45,12 @@ vless://3c1b2dab-cf4f-4147-a68c-313ccc7d6410@mtn.parcsolan.top:22358?encryption=
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.80.221:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=xQmJeBo0MuLoaaTUkHPwA5zto9G29Q3EpVxctJDhRzM&security=reality&sid=3c&sni=www.makers.com&type=tcp#🟣Instagram
 vless://538e4863-d346-4a38-87db-14b739f97f09@hadi.v2rayngz.com:33238?encryption=none&fp=firefox&mode=gun&pbk=8CNTnE3Hb8AP9vrlIYdzF_hBG0oklABXD7E8oY-GRDU&security=reality&serviceName=&sni=sourceforge.net&spx=%2F&type=grpc&%E2%80%A6=#🟣Instagram
 vless://ae822cc0-db26-48a6-ab52-49aea9e0fc97@h1.bestvipserviceirr.xyz:443?encryption=none&fp=chrome&mode=gun&pbk=Cypw8ijWAoJlg2jYEAHfHnSQzpriIH1gkLRAuBCtqjc&security=reality&serviceName=&sid=875ffc69&sni=discord.com&spx=%2F&type=grpc#🟣Instagram
-trojan://telegram-id-privatevpns@13.49.234.141:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@3.79.142.95:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@3.78.13.23:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-directvpn@15.236.7.181:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-privatevpns@52.47.183.146:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@13.42.202.185:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@54.195.56.76:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@52.88.150.184:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://23391d1e-3567-4555-9e40-de87569d74f6@213.202.216.14:443?security=tls&sni=downloadde.xn--mes358acgm99l.com&type=tcp#support_server
 trojan://7a57c3cd-2300-4867-9da2-9f8504b81af5@jp2.djjsvip.cfd:443?security=tls&sni=download.xn--mes358acgm99l.com&type=tcp#support_server
 trojan://7a57c3cd-2300-4867-9da2-9f8504b81af5@jp1.djjsvip.cfd:443?security=tls&sni=download.xn--mes358acgm99l.com&type=tcp#support_server
