@@ -51,5 +51,4 @@ trojan://telegram-id-privatevpns@99.80.254.107:22222?alpn=http%2F1.1&headerType=
 trojan://telegram-id-directvpn@51.21.109.101:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@35.156.186.117:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@18.197.182.166:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-privatevpns@51.20.235.90:22222?allowInsecure=1&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#support_server
