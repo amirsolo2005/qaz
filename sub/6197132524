@@ -45,9 +45,10 @@ vless://89aa0c7d-63fb-4976-c94a-76acf42d8b8e@945-Join.V2RayTz.sbs:8080?encryptio
 vless://f553d0ca-701d-4f95-90e9-2851d055291e@16.16.74.171:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=OU0gVAJSvW3tgIc1mqZkCU1-nrPo2V2-LI_yCWyzVS0&security=reality&sid=3c&sni=www.makers.com&type=tcp#🟣Instagram
 vless://538e4863-d346-4a38-87db-14b739f97f09@hadi.v2rayngz.com:33238?encryption=none&fp=firefox&mode=gun&pbk=8CNTnE3Hb8AP9vrlIYdzF_hBG0oklABXD7E8oY-GRDU&security=reality&serviceName=&sid=466a6ae0&sni=sourceforge.net&spx=%2F&type=grpc#🟣Instagram
 vless://ae822cc0-db26-48a6-ab52-49aea9e0fc97@h1.bestvipserviceirr.xyz:443?encryption=none&fp=chrome&mode=gun&pbk=Cypw8ijWAoJlg2jYEAHfHnSQzpriIH1gkLRAuBCtqjc&security=reality&serviceName=&sid=875ffc69&sni=discord.com&spx=%2F&type=grpc#🟣Instagram
-trojan://telegram-id-privatevpns@18.134.184.203:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-privatevpns@99.81.40.211:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-privatevpns@99.80.254.107:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-directvpn@35.156.186.117:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-privatevpns@13.48.206.3:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-privatevpns@51.20.36.84:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@18.197.182.166:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@16.171.78.181:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
+trojan://telegram-id-directvpn@63.246.112.210:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#support_server
