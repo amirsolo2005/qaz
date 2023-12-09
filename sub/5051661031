@@ -50,10 +50,10 @@ trojan://telegram-id-privatevpns@13.53.179.45:22222?alpn=http%2F1.1&headerType=n
 trojan://telegram-id-privatevpns@35.157.166.126:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@51.21.84.145:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://telegram-id-directvpn@15.188.70.236:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
-trojan://telegram-id-directvpn@15.236.100.212:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp#support_server
 trojan://I864rxBP9tLYy6OdZ_3SrQ@195.74.93.162:995?fp=random&host=fi.pqmin.online&path=%2Ftwcdn-warp&security=tls&sni=pubtlx.pqmin.online&type=ws#support_server
 trojan://I864rxBP9tLYy6OdZ_3SrQ@149.5.172.218:995?fp=random&host=fi.pqmin.online&path=%2Ftwcdn-warp&security=tls&sni=pubtlx.pqmin.online&type=ws#support_server
 trojan://b8810c0b-f0a8-4bc3-baff-7e7ffb85a08c@5.104.108.120:443?security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp#support_server
 trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?headerType=none&security=tls&sni=ftp.debian.org&type=tcp#support_server
 trojan://9ebdbb4a-8ae6-45e8-9169-33fe68fdbaae@141.94.221.127:80?security=%E2%80%A6#support_server
+trojan://b8810c0b-f0a8-4bc3-baff-7e7ffb85a08c@5.104.108.120:443?headerType=none&security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp#support_server
 trojan://65c3941e-46b9-42f6-9c89-daedf472b6db@141.94.221.127:80?sni=fr1-t.sshmax.xyz#support_server
