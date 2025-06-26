@@ -2,3 +2,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443?typ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20-%20Server2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20-%20Server3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443?type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20-%20Server4
+vless://525d30fb-d884-4779-8e73-e2b5006cb846@49.13.155.164:39898?type=tcp&headerType=http&host=nobitex.ir&security=none#%F0%9F%87%A9%F0%9F%87%AA%20-%20Server1
+vmess://eyJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwiaG9zdCI6InVwdHZzLmNvbSIsInRscyI6Im5vbmUiLCJwYXRoIjoiXC8iLCJwb3J0IjoiNDUwOTAiLCJwcyI6IiVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMC0lMjBTZXJ2ZXIxIiwidHlwZSI6Imh0dHAiLCJpZCI6ImFiOTRjM2E5LTY2OTUtNDM5MC1iZGUwLTBlY2VmYWI2NTZmZSIsImFkZCI6Ijk1LjM4LjE0MC4xMDIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRelBmSWsyV2I4enp4WXJnbFVreWxrT1NWbjdMVThtc2F2UHFyRDd5TXNZPQ==@167.172.95.249:37202?type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20-%20Server1
